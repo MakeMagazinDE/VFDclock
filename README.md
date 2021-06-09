@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-# VFD-Wecker mit Pollin-Display
+# VFD-Wecker mit Pollin-Display und Touch-Bedienung
 
 ![Picture](https://github.com/MakeMagazinDE/VFDclock/blob/main/vfd_clock.JPG)
 

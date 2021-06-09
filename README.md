@@ -6,4 +6,6 @@ Maker Media GmbH
 
 # VFD-Wecker mit Pollin-Display
 
-![Picture](https://github.com/MakeMagazinDE/MaerklinArduino/blob/main/maerklin.JPG)
+![Picture](https://github.com/MakeMagazinDE/VFDclock/blob/main/vfd_clock.JPG)
+
+Kein Projekt in Make, aber in unseren Labr-Ticker erwähnt.
